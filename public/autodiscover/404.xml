@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<server>
+	<headers>
+		<status>404</status>
+		<description>Page Not Found</description>
+	</headers>
+	<contents><![CDATA[
+		Looks like you've followed a broken link or entered a URL that doesn't exist on this site.
+	]]></contents>
+</server>
